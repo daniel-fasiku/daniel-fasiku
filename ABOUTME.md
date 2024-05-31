@@ -1,5 +1,5 @@
 👋 Welcome to my GitHub Profile
-Hello, I'm Boluwaife Ajayi, a software developer with an interest in building web, mobile applications and Enterprise Softwares. 🚀
+Hello, I'm Daniel Fasiku, a software developer with an interest in building web, mobile applications and Enterprise Softwares. 🚀
 👀 About Me
 
 ---
