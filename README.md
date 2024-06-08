@@ -2,7 +2,7 @@
 Hello, I'm Daniel Fasiku, a software developer with an interest in building web, mobile applications and Enterprise Softwares. 🚀
 
 ## 👀 About Me
- I specialize in building robust and dynamic web applications. My expertise spans various cutting-edge technologies, including React, Next.js, Vue.js, HTML5, and advanced CSS3 for creating responsive and engaging front-end experiences. Proficient in JavaScript and TypeScript, I ensure seamless functionality and performance. On the back end, I leverage my skills in Node.js, Python, and ASP.NET Core for developing scalable and high-performance web services, paired with MongoDB for efficient data management. With a strong foundation in Git, I excel in collaborative environments, consistently delivering high-quality code and innovative solutions.
+ I specialize in building robust and dynamic web applications. My expertise spans various cutting-edge technologies, including React, Next.js, Vue.js, HTML5, and advanced CSS3 for creating responsive and engaging front-end experiences. Proficient in JavaScript and TypeScript, I ensure seamless functionality and performance. On the back end, I leverage my skills in Node.js, Python, and ASP.NET Core for developing scalable and high-performance desktop apps, paired with MongoDB for efficient data management. With a strong foundation in Git, I excel in collaborative environments, consistently delivering high-quality code and innovative solutions.
 
 ### Frontend Development
 
@@ -18,7 +18,7 @@ Hello, I'm Daniel Fasiku, a software developer with an interest in building web,
 * Node.js/Express.js
 * MongoDB
 
-### Mobile App Development
+### Mobile/Desktop App Development
 
 * ASP.NET CORE
 * React Native
