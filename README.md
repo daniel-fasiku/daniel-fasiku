@@ -41,7 +41,7 @@ Hello, I'm Daniel Fasiku, a software developer with an interest in building web,
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=daniel-fasiku&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daniel-fasiku&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-fasiku&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ## 🏆GitHub Trophies
