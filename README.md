@@ -61,7 +61,7 @@ My current focus revolves around continuous learning and growth in the field of 
 I'm always open to collaborating on exciting development projects. If you're looking for a front-end developer or need assistance with server-side or mobile app development, feel free to reach out.
 
 ## 📫 Contact
-You can reach me at adewolefas@gmail.com for any inquiries, collaboration proposals, or just to connect.
+You can reach me at daniel.fasiku@villaja.com for any inquiries, collaboration proposals, or just to connect.
 
 ## 🌟 Hobbies
 In my free time, I enjoy:
