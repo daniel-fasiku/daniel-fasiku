@@ -13,7 +13,6 @@ Hello, I'm Daniel Fasiku, a software engineer with an interest in building web, 
 
 ### Frontend Development
 
-* ASP.NET
 * React.js
 * Next.js
 * Vue.js
@@ -23,11 +22,12 @@ Hello, I'm Daniel Fasiku, a software engineer with an interest in building web, 
 ### Server-Side Development
 
 * Node.js/Express.js
+* ASP.NET
 * MongoDB
 
 ### Mobile/Desktop App Development
 
-* ASP.NET CORE
+* Kotlin
 * React Native
 
 ### 💻 Programming Languages
@@ -36,6 +36,8 @@ Hello, I'm Daniel Fasiku, a software engineer with an interest in building web, 
 * Javascript
 * Python
 * c#
+* Java
+* Kotlin
 
 
 ## 📊GitHub Stats :
